@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ze/8r1A7WS2WQpSfihojxLW1ZJ2dt+8Jl+czl72Rw5DJ1rlncACPLVarNHsZvu9d6k0A/SfRZFz13tTSr4S/Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jibar\\Documents\\GIT\\.NET 5 Project\\.NET5ConsoleProject\\.NET5ConsoleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jibar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

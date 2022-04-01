@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <!-- This declares what type of project it is. Executable -->
+    <OutputType>Exe</OutputType>
+  <!-- This declares what version we're using -->
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_NET5ConsoleProject</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NewtonSoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>
